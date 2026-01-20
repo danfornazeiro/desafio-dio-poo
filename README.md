@@ -25,6 +25,7 @@ desafio-dio-poo/
 ## 📚 Aprendizados
 Durante este desafio, foram aplicados conceitos fundamentais de POO, como:
 - Classes e Objetos
+- Abstração
 - Encapsulamento
 - Herança
 - Polimorfismo
